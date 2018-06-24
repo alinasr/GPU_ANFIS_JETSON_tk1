@@ -4,8 +4,10 @@
 	operating system : Linux , Ubuntu dist.
 	CUDA version 6.5
 	
-	for more information about ANFIS pleas refer to this article : https://doi.org/10.1016/j.asoc.2017.07.007
-	for more information about ANFIS on CPU pleas refer to this  :https://github.com/alinasr/Fixed-point-ANFIS-.git
+	for more information about ANFIS pleas refer to this article :
+	https://doi.org/10.1016/j.asoc.2017.07.007
+	for more information about ANFIS on CPU pleas refer to this:
+	https://github.com/alinasr/Fixed-point-ANFIS-.git
 	
 	Notice**:
 	
